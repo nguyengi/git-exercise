@@ -6,5 +6,5 @@ public class HelloWorld
     main (String[] args)
   {
     System.out.println ("Hello, GitHub!");
-  } // main(String[])
+  } // main(String[]) 2
 }
