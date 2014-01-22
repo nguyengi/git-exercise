@@ -7,5 +7,7 @@ public class HelloWorld
   {
     System.out.println ("Hello, Git!");
     System.out.println ("Hello 2!");
+    HelloWorld hello = new HelloWorld();
+    // pointless comment
   } // main(String[]) 2
 }
